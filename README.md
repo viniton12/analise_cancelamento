@@ -149,5 +149,5 @@ O projeto prova o valor da **inteligência de dados aplicada à experiência do 
 
 ## ✉️ Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/viniciuscalisto/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)][(https://www.linkedin.com/in/viniciuscalisto/)]  
 Desenvolvido com 💡 por **Vinícius Calisto de Sirqueira**
